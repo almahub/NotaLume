@@ -1,0 +1,13 @@
+{
+    "schema":  1,
+    "packageName":  "it.pianoled.app",
+    "productName":  "NotaLume",
+    "apkFile":  "NotaLume-0.10.4.apk",
+    "versionCode":  26,
+    "versionName":  "0.10.4",
+    "minSdk":  26,
+    "size":  3843029,
+    "sha256":  "2f68e978dbaaecb75c32feacdcb8688161845d384488fc1a88e8a8a2a5e9baca",
+    "apkUrl":  "https://github.com/almahub/pianoled/releases/download/v0.10.4/NotaLume-0.10.4.apk",
+    "releaseNotes":  "Otto nuovi effetti Light: Aurora, Oceano, Fuoco, Respiro, Cascata, Stelle, Cometa e Scacchiera, oltre ad Arcobaleno e Kit.\nScegli tutte le matrici o un modulo e regola la luminosità; arresto automatico dopo 30 secondi. Le anteprime sono illustrative.\nI nuovi effetti richiedono firmware matrice revisione 12, aggiornato separatamente. Con firmware precedente rimangono disponibili Arcobaleno e Kit.\nTest automatici ed emulati superati; resa dei nuovi effetti da verificare sui LED reali. Stessa firma: installare senza disinstallare.\n"
+}

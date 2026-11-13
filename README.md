@@ -3,8 +3,21 @@
 **Music becomes light.**
 
 NotaLume è il nuovo nome di PianoLed: stesso package Android, stessa firma e
-stessi dati. La versione 0.10.3 si installa sopra le versioni precedenti senza
+stessi dati. La versione 0.10.4 si installa sopra le versioni precedenti senza
 disinstallarle. Il repository e l'indirizzo degli aggiornamenti restano gli stessi.
+
+## Novità 0.10.4
+
+- Otto nuovi effetti Light: Aurora, Oceano, Fuoco, Respiro, Cascata, Stelle,
+  Cometa e Scacchiera, oltre ad Arcobaleno e Kit.
+- Selezione di tutte le matrici o di un modulo, luminosità e arresto dopo
+  30 secondi; le anteprime sono illustrative.
+- I nuovi effetti richiedono firmware matrice revisione 12, aggiornato
+  separatamente. Con firmware precedente restano Arcobaleno e Kit.
+- Compilazione e test automatici/emulati superati; la resa dei nuovi effetti
+  resta da verificare sui LED reali.
+
+Stesso APK della prova locale 0.10.4; installare senza disinstallare.
 
 ## Novità 0.10.3
 
