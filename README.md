@@ -3,8 +3,23 @@
 **Music becomes light.**
 
 NotaLume è il nuovo nome di PianoLed: stesso package Android, stessa firma e
-stessi dati. La versione 0.10.4 si installa sopra le versioni precedenti senza
+stessi dati. La versione 0.10.5 si installa sopra le versioni precedenti senza
 disinstallarle. Il repository e l'indirizzo degli aggiornamenti restano gli stessi.
+
+## Novità 0.10.5
+
+- Light: durata totale di 30 secondi, 1, 5 o 15 minuti oppure continua, con
+  cambio automatico opzionale dell'effetto ogni 15 secondi.
+- Arresto alla scadenza, uscendo da Light, sospendendo l'app o in caso di
+  disconnessione; le preferenze di durata e alternanza vengono salvate.
+- Player: rimossi fascia verde e testo «Matrice LED · ultimi 2 s». Il tasto
+  si illumina quando la nota lo raggiunge; l'anticipo sui LED fisici è invariato.
+- Firmware r13, aggiornato separatamente, mantiene gli effetti continui senza
+  riavviarli; con r12 funzionano con un possibile breve riavvio periodico.
+
+Compilazione e test host/emulatore superati; r13 verificata via protocollo sulla
+scheda. La prova visiva su telefono e matrici rimane da completare.
+Chi ha già installato l'APK locale 0.10.5 possiede la stessa versione pubblica.
 
 ## Novità 0.10.4
 

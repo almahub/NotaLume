@@ -1,0 +1,13 @@
+{
+    "schema":  1,
+    "packageName":  "it.pianoled.app",
+    "productName":  "NotaLume",
+    "apkFile":  "NotaLume-0.10.5.apk",
+    "versionCode":  27,
+    "versionName":  "0.10.5",
+    "minSdk":  26,
+    "size":  3847125,
+    "sha256":  "fffaa50e6353137cacdb18d845284f6b7cf23de4bc6d94648506fd06ef2a1227",
+    "apkUrl":  "https://github.com/almahub/pianoled/releases/download/v0.10.5/NotaLume-0.10.5.apk",
+    "releaseNotes":  "Light: scegli una durata totale di 30 secondi, 1, 5 o 15 minuti oppure Continua; puoi attivare il cambio automatico degli effetti ogni 15 secondi.\nGli effetti si fermano alla scadenza, uscendo da Light, sospendendo l\u0027app o perdendo la connessione. Durata e alternanza sono salvate.\nPlayer: rimossi la fascia verde e il testo «Matrice LED · ultimi 2 s». Il tasto si illumina all\u0027arrivo della nota; l\u0027anticipo sui LED fisici resta invariato.\nFirmware r13 aggiornato separatamente: il rinnovo continuo non riavvia l\u0027effetto. Anche la r12 è compatibile, con possibile breve riavvio periodico.\nTest automatici ed emulati superati, protocollo verificato sulla scheda; prova visiva sul telefono da completare. Stessa firma: installare senza disinstallare.\n"
+}
